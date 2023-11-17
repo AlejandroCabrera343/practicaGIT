@@ -1,0 +1,12 @@
+Lenguaje de Marcas: Elegi el formato html debido a que es el lenguaje de marcado mas comun.
+
+Programacion: Elegi la extension .java debido a que es el lenguaje de programacion
+con el que programamos en clase.
+
+Base de Datos: Elegi el formato SQL debido a que se usa mucho para crear bases de datos.
+
+Entornos de Desarrollo: Elegi la extension .drawio debido a que es el formato con el que
+se guardan los diagramas de flujo que hacemos en clase.
+
+Sistemas Informaticos: He optado por elegir un archivo .txt debido a que en esta
+asignatura no tenemos una extension o formato en especifico para usar aqui.
